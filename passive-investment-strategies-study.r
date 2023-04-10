@@ -68,7 +68,7 @@
     "**As can be determined from the study, the PASSIVE strategy that produces the highest returns is the \"Buy and Hold\" strategy.** There are passive investment strategies and other investment vehicles that produce higher returns, but many involve trading actively or deploying capital into higher growth-higher risk assets.\n",
     "\\\n",
     "\\\n",
-    "**This study is back-testing historical data based of three popular trading strategies. This is in no way, or intended to be, investment advice. Please conduct due diligence when investing or consult with a professional**\n",
+    "**This study is back-testing historical data based off of three popular trading strategies. This is in no way, or intended to be, investment advice. Please conduct due diligence when investing or consult with a professional**\n",
     "\\\n",
     "\\\n",
     "\\\n",
