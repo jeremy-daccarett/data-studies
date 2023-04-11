@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "46001245",
+   "id": "d0e71db0",
    "metadata": {
     "execution": {
      "iopub.execute_input": "2023-04-10T21:02:36.315177Z",
@@ -10,10 +10,10 @@
      "iopub.status.idle": "2023-04-10T21:02:36.452202Z"
     },
     "papermill": {
-     "duration": 0.001687,
-     "end_time": "2023-04-10T21:08:21.694703",
+     "duration": 0.001736,
+     "end_time": "2023-04-11T00:21:00.220199",
      "exception": false,
-     "start_time": "2023-04-10T21:08:21.693016",
+     "start_time": "2023-04-11T00:21:00.218463",
      "status": "completed"
     },
     "tags": []
@@ -68,7 +68,7 @@
     "**As can be determined from the study, the PASSIVE strategy that produces the highest returns is the \"Buy and Hold\" strategy.** There are passive investment strategies and other investment vehicles that produce higher returns, but many involve trading actively or deploying capital into higher growth-higher risk assets.\n",
     "\\\n",
     "\\\n",
-    "**This study is back-testing historical data based off of three popular trading strategies. This is in no way, or intended to be, investment advice. Please conduct due diligence when investing or consult with a professional**\n",
+    "**This study is back-testing historical data based of three popular trading strategies. This is in no way, or intended to be, investment advice. Please conduct due diligence when investing or consult with a professional.**\n",
     "\\\n",
     "\\\n",
     "\\\n",
@@ -96,14 +96,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 3.454443,
-   "end_time": "2023-04-10T21:08:21.815329",
+   "duration": 3.567336,
+   "end_time": "2023-04-11T00:21:00.341411",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-04-10T21:08:18.360886",
+   "start_time": "2023-04-11T00:20:56.774075",
    "version": "2.4.0"
   }
  },
