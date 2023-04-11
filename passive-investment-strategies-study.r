@@ -2,18 +2,18 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "d0e71db0",
+   "id": "428c72fb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-04-10T21:02:36.315177Z",
-     "iopub.status.busy": "2023-04-10T21:02:36.312734Z",
-     "iopub.status.idle": "2023-04-10T21:02:36.452202Z"
+     "iopub.execute_input": "2023-04-11T00:27:00.984250Z",
+     "iopub.status.busy": "2023-04-11T00:27:00.981767Z",
+     "iopub.status.idle": "2023-04-11T00:27:01.103961Z"
     },
     "papermill": {
-     "duration": 0.001736,
-     "end_time": "2023-04-11T00:21:00.220199",
+     "duration": 0.002274,
+     "end_time": "2023-04-11T00:27:52.296992",
      "exception": false,
-     "start_time": "2023-04-11T00:21:00.218463",
+     "start_time": "2023-04-11T00:27:52.294718",
      "status": "completed"
     },
     "tags": []
@@ -45,7 +45,7 @@
     "\\\n",
     "\\\n",
     "\\\n",
-    "Each strategy's line follows the current asset value one would have should they employ one of these strategies.\n",
+    "Each strategy's line follows the current asset value one would have should they employ one of these strategies. (Access the large version of the visuals [here](https://public.tableau.com/app/profile/jeremy.daccarett/viz/PassiveInvestmentStrategies/Sheet1).)\n",
     "\n",
     "\n",
     "\n",
@@ -96,14 +96,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 3.567336,
-   "end_time": "2023-04-11T00:21:00.341411",
+   "duration": 3.735619,
+   "end_time": "2023-04-11T00:27:52.421726",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-04-11T00:20:56.774075",
+   "start_time": "2023-04-11T00:27:48.686107",
    "version": "2.4.0"
   }
  },
